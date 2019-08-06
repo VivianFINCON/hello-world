@@ -6,6 +6,4 @@ Wir testen Git und GitHub aus.
 Wir fügen nun noch eine Zeile hinzu.
 
 Hallo Vivian.
-Hier ist Thede 
-
-*The END*
+Hier ist Thede. Hier geht es erst los.
